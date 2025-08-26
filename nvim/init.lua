@@ -1,3 +1,6 @@
+-- Plugins --
+require("config.lazy")
+
 -- Theme & Background
 vim.cmd.colorscheme("unokai")
 vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
