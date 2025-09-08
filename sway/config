@@ -19,7 +19,7 @@ gaps outer 2
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/sway/purple_neon_swirl_2560_1440.png fill
+output * bg /usr/share/backgrounds/wallpaper_nature_2560_1440.jpg fill
 #
 # Example configuration:
 #
